@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<leftMenu id="0"> 
+  <menuName id="1" value="客户管理" url="www.baidu.com" remark="这是备注"> 
+    <menuName id="2" value="个人客户" url="www.baidu.com" remark="这是备注"/>  
+    <menuName id="3" value="法人客户" url="www.baidu.com" remark="这是备注"/> 
+  </menuName>  
+  <menuName id="4" value="系统管理" url="www.baidu.com" remark="这是备注"> 
+    <menuName id="5" value="组织架构" url="www.baidu.com" remark="这是备注"> 
+      <menuName id="6" value="部门管理" url="www.baidu.com" remark="这是备注"/>  
+      <menuName id="7" value="员工管理" url="www.baidu.com" remark="这是备注"/> 
+    </menuName>  
+    <menuName id="8" value="财务管理" url="www.baidu.com" remark="这是备注"> 
+      <menuName id="9" value="银行管理" url="www.baidu.com" remark="这是备注"/>  
+      <menuName id="10" value="凭证管理" url="www.baidu.com" remark="这是备注"/>  
+      <menuName id="11" value="票据管理" url="www.baidu.com" remark="这是备注"/> 
+    </menuName> 
+  </menuName>  
+  <menuName id="12" value="报表管理" url="www.baidu.com" remark="这是备注"> 
+    <menuName id="13" value="财务报表" url="www.baidu.com" remark="这是备注"/>  
+    <menuName id="14" value="客户报表" url="www.baidu.com" remark="这是备注"/> 
+  </menuName>  
+  <maxId>15</maxId> 
+</leftMenu>
